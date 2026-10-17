@@ -8,7 +8,7 @@
 
 # Hi, I'm Laxmikant 👋
 
-**Industrial / OT network engineer — 25+ years building and securing the networks behind plants, substations and mass-transit systems.**
+**Industrial / OT network engineer — 5+ years building and securing the networks behind plants, substations and mass-transit systems.**
 
 I work where operational technology meets the network: Purdue-model segmentation, IEC 62443 zones & conduits, and the protocols that actually run the plant floor — Modbus, DNP3, IEC 60870-5-104, IEC 61850 (GOOSE/SV), PROFINET, S7, EtherNet/IP — carried over resilient Ethernet and WAN designs.
 
