@@ -39,9 +39,9 @@ This profile collects the tools and labs I build to make OT networking easier to
 
 ### 📫 Get in touch
 
-- LinkedIn: TODO — add your profile URL
-- Email: TODO — add a contact email if you want one public
-- Blog / site: TODO (optional)
+- LinkedIn: https://www.linkedin.com/in/laxmikant-dayama-20662578/?isSelfProfile=true
+- Email: laxmikant_dayama@yahoo.in
+- Blog / site: TODO 
 
 <!--
   Optional extras once your repos are public:
